@@ -5,4 +5,4 @@ The ideal PSR is supposed to take 90 seconds (verbal), which at 150 words per mi
 
 The app tracks the number of words in each section, color-coded for ease of use, and returns a value for the number of words (since unlike Twitter, we are aiming for a target word count, not merely "less than 140 characters").
 
-In the future, the app should produce an exportable document which people can use to refer back to when preparing for interviews.
+In the future, the app should produce an exportable document which people can use to refer back to when preparing for interviews. Most likely this would be a spreadsheet.
