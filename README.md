@@ -11,4 +11,6 @@ In the future, the app should produce an exportable document which people can us
 
 ##How to use
 
-1. Type in words.
+1. Type in words to each of the three sections:
+2. Observe if you're within the correct word range for each section -- You don't want too many or too few words in each.
+3. If any of the words, phrases, or sentences are highlighted, correct them.
