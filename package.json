@@ -1,0 +1,27 @@
+{
+  "name": "project-solution-response",
+  "version": "1.0.0",
+  "description": "A web app for developing PSR's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lastres0rt/problem-solution-response.git"
+  },
+  "keywords": [
+    "career",
+    "stories"
+  ],
+  "author": "Rachel Keslensky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lastres0rt/problem-solution-response/issues"
+  },
+  "homepage": "https://github.com/lastres0rt/problem-solution-response#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
