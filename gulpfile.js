@@ -7,8 +7,13 @@ var useref = require('gulp-useref');
 var uglify = require('gulp-uglify');
 var cssnano = require('gulp-cssnano');
 var imagemin = require('gulp-imagemin');
+var browserSync = require('browser-sync');
 var runSequence = require('run-sequence');
-var browserSync = require('browser-sync').create();
+var deploy      = require('gulp-gh-pages');
+
+gulp.task('hello', function() {
+  console.log('Hello Rachel');
+});
 
 gulp.task('sass', function() {
   return gulp.src('app/scss/**/*.scss') // Gets all files ending with .scss in app/scss
@@ -19,15 +24,8 @@ gulp.task('sass', function() {
     }))
 });
 
-gulp.task('watch', ['browserSync', 'sass'], function (){
-  gulp.watch('app/scss/**/*.scss', ['sass']);
-  // Reloads the browser whenever HTML or JS files change
-  gulp.watch('app/*.html', browserSync.reload);
-  gulp.watch('app/js/**/*.js', browserSync.reload);
-});
-
 gulp.task('browserSync', function() {
-  browserSync.init({
+  browserSync({
     server: {
       baseDir: 'app'
     },
@@ -61,11 +59,31 @@ gulp.task('clean:dist', function() {
   return del.sync('dist');
 });
 
+gulp.task('cache:clear', function (callback) {
+  return cache.clearAll(callback)
+});
+
+gulp.task('watch', ['browserSync', 'sass'], function (){
+  gulp.watch('app/scss/**/*.scss', ['sass']);
+
+  // Reloads the browser whenever HTML or JS files change
+  gulp.watch('app/*.html', browserSync.reload);
+  gulp.watch('app/js/**/*.js', browserSync.reload);
+});
+
 gulp.task('build', function (callback) {
   runSequence('clean:dist',
     ['sass', 'useref', 'images', 'fonts'],
     callback
   )
+});
+
+/**
+ * Push build to gh-pages
+ */
+gulp.task('deploy', ['build'], function () {
+  return gulp.src("./dist/**/*")
+    .pipe(deploy())
 });
 
 gulp.task('default', function (callback) {
