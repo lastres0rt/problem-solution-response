@@ -1,5 +1,5 @@
 # problem-solution-response (PSR)
-A single-page web app coded for the folks at NOVA Job Center's ProMatch. 
+A single-page web app coded for the folks at NOVA Job Center's ProMatch.
 
 An app designed to help people generate PSR (Problem-Solution-Response) stories for job interviews and resume crafting.
 
@@ -18,6 +18,8 @@ The app tracks the number of words in each section, color-coded for ease of use,
 In the future, the app should produce an exportable document which people can use to refer back to when preparing for interviews. Most likely this would be a spreadsheet. Since the overall objective of making PSR's is to have a series of them to refer back to when answering questions, the app should be able to accept spreadsheets as well (akin to a "saved game") and allow people to pick up where they left off.
 
 ##How to use
+
+Click here: https://lastres0rt.github.io/problem-solution-response/
 
 1. Type in words to each of the three sections:
 2. Observe if you're within the correct word range for each section -- You don't want too many or too few words in each.
