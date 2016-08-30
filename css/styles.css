@@ -2,7 +2,7 @@
   width: 71.42857%; }
 
 body {
-  background: yellow;
+  background: #99E855;
   width: 100%;
   padding: 0;
   margin: 0; }
@@ -11,11 +11,22 @@ textarea {
   width: 100%;
   height: 200px; }
 
+h1 {
+  height: 10vh;
+  text-align: center;
+  font-size: 5vh; }
+
 #problem {
-  background: red; }
+  background: #5EFFAB; }
 
 #solution {
-  background: green; }
+  background: #7BFF6B; }
 
 #response {
-  background: blue; }
+  background: #55E872; }
+
+.psr-text {
+  height: 30vh;
+  padding: 1vh;
+  border: none;
+  font-size: 5vh; }
