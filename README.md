@@ -1,4 +1,4 @@
-# problem-solution-response (PSR)
+# Problem-Solution-Response (PSR)
 A single-page web app coded for the folks at NOVA Job Center's ProMatch.
 
 An app designed to help people generate PSR (Problem-Solution-Response) stories for job interviews and resume crafting.
