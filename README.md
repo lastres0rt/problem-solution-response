@@ -3,7 +3,7 @@
 
 A single-page web app coded for the folks at NOVA Job Center's ProMatch. 💼
 
-An app designed to help people generate PSR (Problem-Solution-Response) stories for job interviews and resume crafting. Create a variety of PSR stories to nip those frustrating interview questions in the bud!
+An app designed to help people generate PSR (Problem-Solution-Response) stories for job interviews and resume crafting. Create a variety of PSR stories to nip those frustrating interview questions in the bud! 👔
 
 ##Inspiration
 
