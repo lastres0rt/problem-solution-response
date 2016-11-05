@@ -9,7 +9,7 @@ An app designed to help people generate PSR (Problem-Solution-Response) stories 
 
 PSR's provide bite-size stories from a candidate's experience, detailing how they dealt with adversities by:
 
-* Defining the **Problem** they dealt with,
+* Defining the **Problem** they dealt with, ⁉️
 * Outlining the **Solution** they took,
 * And talking about the **Response (Results)** that followed. 🎉 💯 👍
 
