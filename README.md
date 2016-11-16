@@ -29,6 +29,6 @@ In the future, I want the app to produce an exportable document which people can
 
 Click here: https://lastres0rt.github.io/problem-solution-response/ ⬅️
 
-1. Type in words to each of the three sections:
+1. Type in words to each of the three sections. ⌨️
 2. Observe if you're within the correct word range for each section -- You don't want too many or too few words in each.
 3. (Coming soon) If any of the words, phrases, or sentences are highlighted, correct them -- some sentences wil have to be shortened or split into multiple sentences due to their length, or adverbs might need to be removed, or other similar errors.
