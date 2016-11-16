@@ -27,7 +27,7 @@ In the future, I want the app to produce an exportable document which people can
 
 ##How to use
 
-Click here: https://lastres0rt.github.io/problem-solution-response/
+Click here: https://lastres0rt.github.io/problem-solution-response/ ⬅️
 
 1. Type in words to each of the three sections:
 2. Observe if you're within the correct word range for each section -- You don't want too many or too few words in each.
