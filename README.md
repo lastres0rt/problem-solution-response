@@ -13,7 +13,7 @@ PSR's provide bite-size stories from a candidate's experience, detailing how the
 * Outlining the **Solution** they took,
 * And talking about the **Response (Results)** that followed. 🎉 💯 👍
 
-The ideal PSR is supposed to take 90 seconds (verbal), which at 150 words per minute comes out to about 225 words total. 
+The ideal PSR is supposed to take 90 seconds (verbal), which at 150 words per minute comes out to about 225 words total. ⏱
 
 This app works to:
 
