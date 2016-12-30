@@ -17,7 +17,7 @@ The ideal PSR is supposed to take 90 seconds (verbal), which at 150 words per mi
 
 This app works to:
 
-* break down the PSR into its respective components,
+* break down the PSR into its respective components, 🍽
 * keep the word count within the approximate ranges for each section.
 * and (in an ideal world) improve the writing. 📈
 
