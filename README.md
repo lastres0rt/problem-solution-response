@@ -7,7 +7,7 @@ An app designed to help people generate PSR (Problem-Solution-Response) stories 
 
 ##Inspiration
 
-PSR's provide bite-size stories from a candidate's experience. The ideal PSR details how the candidate dealt with various situations by:
+PSR's provide bite-size stories from a candidate's experience. 👄 The ideal PSR details how the candidate dealt with various situations by:
 
 * Defining the **Problem** they dealt with, ⁉️
 * Outlining the **Solution** they took, 🔬
