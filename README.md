@@ -5,7 +5,7 @@ A single-page web app inspired by the lovely folks at NOVA Job Center's ProMatch
 
 An app designed to help people generate PSR (Problem-Solution-Response) stories for job interviews and resume crafting. Create a variety of PSR stories to nip those frustrating interview questions in the bud! Make them just long enough to be interesting! 👔 🎓
 
-##Inspiration
+## Inspiration
 
 PSR's provide bite-size stories from a candidate's experience. 👄 The ideal PSR details how the candidate dealt with various situations by:
 
@@ -27,7 +27,7 @@ In the future, I want the app to produce an exportable document which people can
 
 Since the overall objective of making PSR's is to have a series of them to refer back to when answering questions, the app should be able to accept spreadsheets as well (akin to a "saved game") and allow people to pick up where they left off.
 
-##How to use
+## How to use
 
 Click here: https://lastres0rt.github.io/problem-solution-response/ ⬅️
 
@@ -35,5 +35,5 @@ Click here: https://lastres0rt.github.io/problem-solution-response/ ⬅️
 2. Observe if you're within the correct word range for each section -- You don't want too many or too few words in each. ⚖️
 3. 🔜 (Coming soon) If any of the words, phrases, or sentences are highlighted, correct them -- some sentences wil have to be shortened or split into multiple sentences due to their length, or adverbs might need to be removed, or other similar errors.
 
-##Recent Updates
-###Updated February 10, 2017
+## Recent Updates
+### Updated February 10, 2017
