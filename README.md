@@ -27,7 +27,7 @@ In the future, I want the app to produce an exportable document which people can
 
 Since the overall objective of making PSR's is to have a series of them to refer back to when answering questions, the app should be able to accept spreadsheets as well (akin to a "saved game") and allow people to pick up where they left off.
 
-## How to use
+## How to Use
 
 Click here: https://lastres0rt.github.io/problem-solution-response/ ⬅️
 
