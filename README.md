@@ -23,7 +23,7 @@ This app works to:
 
 In the future, I want the app to track the number of words in each section, color-coded for ease of use, and return a value for the number of words (since unlike Twitter, we are aiming for a target word count, not merely "less than 140 characters").
 
-In the future, I want the app to produce an exportable document which people can use to refer back to when preparing for interviews. Most likely this would be a spreadsheet. 
+In the future, I also want the app to produce an exportable document which people can use to refer back to when preparing for interviews. Most likely this would be a spreadsheet. 
 
 Since the overall objective of making PSR's is to have a series of them to refer back to when answering questions, the app should be able to accept spreadsheets as well (akin to a "saved game") and allow people to pick up where they left off.
 
