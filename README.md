@@ -9,7 +9,9 @@ Create a variety of PSR stories to nip those frustrating interview questions in 
 
 ## Inspiration
 
-PSR's provide bite-size stories from a candidate's experience. 👄 The ideal PSR details how the candidate dealt with various situations by:
+PSR's provide bite-size stories from a candidate's experience. They're a wonderful answer to those tricky questions like "Tell me about a time you dealt with deadlines"! 👄 
+
+The ideal PSR details how the candidate dealt with various situations by:
 
 * Defining the **Problem** they dealt with, ⁉️
 * Outlining the **Solution** they took, 🔬
