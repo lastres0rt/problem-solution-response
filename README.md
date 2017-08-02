@@ -11,7 +11,7 @@ This app is designed to help people generate PSR (Problem-Solution-Response) sto
 
 ## Inspiration
 
-PSR's provide bite-size stories from a candidate's experience. They're a wonderful answer to those tricky questions like "Tell me about a time you dealt with deadlines"! 👄 
+PSR's provide bite-size stories from a candidate's experience. They're a wonderful answer to those tricky questions like "Tell me about a time you dealt with deadlines"! 👄 🎬
 
 The ideal PSR details how the candidate dealt with various situations by:
 
