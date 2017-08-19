@@ -6,7 +6,7 @@ A single-page web application inspired by the lovely folks at NOVA Job Center's 
 This app is designed to help people generate PSR (Problem-Solution-Response) stories for job interviews and resume crafting. 
 
 * Create a variety of PSR stories to nip those frustrating interview questions in the bud! 
-* Use shortened versions to spice up your resume! 
+* Use shortened versions to spice up your resume! 🌶
 * Make them just long enough to be interesting! 👔 🎓
 
 ## Inspiration
