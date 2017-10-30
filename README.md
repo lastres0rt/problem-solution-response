@@ -24,7 +24,7 @@ The ideal PSR length is about 90 seconds long (verbal), which at 150 words per m
 This app works to:
 
 * break down the PSR into its respective components, 🍽
-* keep the word count within the approximate ranges for each section.
+* keep the word count within the approximate ranges for each section. ⚖️
 * and (in an ideal world) improve the writing. 📈
 
 In the future, I want the app to track the number of words in each section, color-coded for ease of use, and return a value for the number of words (since unlike Twitter, we are aiming for a target word count, not merely "less than 140 characters").
