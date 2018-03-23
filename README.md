@@ -19,7 +19,7 @@ The ideal PSR details how the candidate dealt with various situations by:
 * Outlining the **Solution** they took, 🔬
 * And talking about the **Response (Results)** that followed. 🎉 💯 👍
 
-The ideal PSR length is about 90 seconds long (verbal), which at the typical speaking rate of 150 words per minute comes out to about 225 words total. ⏱
+The ideal PSR length is about 90 seconds long (verbal), which at the typical speaking rate of 150 words per minute comes out to about 225 words total. ⏱ (Speaking slower also helps, so you may want to consider 225 a soft maximum.)
 
 This app works to:
 
